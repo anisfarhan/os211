@@ -17,3 +17,4 @@ ZCZC W01 25 L16 report all W01 progress
 ZCZC W01 90 L17 Surfing through the internet
 ZCZC W01 20 L18 Only tried some of the commands, still curious
 ZCZC W01 120 L06 Reads OSC10 chapter 1&2
+ZCZC W02 100 L02 ZOOM class Monday
