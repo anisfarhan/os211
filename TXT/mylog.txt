@@ -26,3 +26,15 @@ ZCZC W02 30 L13 Try Demo W02
 ZCZC W02 90 L10 Doing W02 assignments
 ZCZC W02 200 L05 Browsing the internet, looking for W02 top 10
 ZCZC W02 25 L03 Visits 10 next closest neighbours
+ZCZC W03 100 L02 ZOOM class Wednesday
+ZCZC W03 90 L11 Doing W03 assignment 1
+ZCZC W03 60 L12 Doing W03 assignment 2
+ZCZC W03 10 L13 Doing W03 assignment 3
+ZCZC W03 60 L14 Doing W03 assignment 4
+ZCZC W03 120 L15 Doing W03 assignment 5
+ZCZC W03 30 L16 Doing W03 assignment 6
+ZCZC W03 70 L17 Doing W03 assignment 7
+ZCZC W03 10 L18 Doing W03 assignment 8
+ZCZC W03 15 L19 Doing W03 assignment 9
+ZCZC W03 45 L23 Pop Quiz March 23 via Discord
+ZCZC W03 75 L05 Fixing package error, package not found, etc.
