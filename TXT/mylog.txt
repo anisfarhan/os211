@@ -38,3 +38,5 @@ ZCZC W03 10 L18 Doing W03 assignment 8
 ZCZC W03 15 L19 Doing W03 assignment 9
 ZCZC W03 45 L23 Pop Quiz March 23 via Discord
 ZCZC W03 75 L05 Fixing package error, package not found, etc.
+ZCZC W04 120 L02 ZOOM class Wednesday
+ZCZC W04 40 L06 Read os04.pdf slides
