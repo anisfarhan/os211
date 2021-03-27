@@ -40,3 +40,6 @@ ZCZC W03 45 L23 Pop Quiz March 23 via Discord
 ZCZC W03 75 L05 Fixing package error, package not found, etc.
 ZCZC W04 120 L02 ZOOM class Wednesday
 ZCZC W04 40 L06 Read os04.pdf slides
+ZCZC W04 75 L06 Read OSC10 chapter 9
+ZCZC W04 25 L12 Try W04 Demos
+ZCZC W04 30 L13 Visit 10 next closest neighbours
