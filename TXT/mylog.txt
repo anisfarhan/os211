@@ -50,3 +50,4 @@ ZCZC W05  60 L01 Pop Quiz W05 Q02 SCEPIAL via SCELE
 ZCZC W05  60 L06 Read OSC10 chapter 10
 ZCZC W05  40 L12 Visit 10 next closest neighbours
 ZCZC W05 100 L13 GSGS & create my top-10 list of Week05
+ZCZC W05 120 L10 Done W05 assignments
