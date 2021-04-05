@@ -13,3 +13,7 @@ ZCZC W02 antoniusanggito
 ZCZC W03 aryaputr213
 ZCZC W03 annisadevin
 ZCZC W03 ardi-nusantara
+# Week 04
+ZCZC W04 antoniusanggito
+ZCZC W04 aryudaokta
+ZCZC W04 astriddiany

@@ -1,48 +1,52 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 10 L03 Github related
-ZCZC W00 85 L02 ZOOM related
-ZCZC W00 20 L01 SCELE related
-ZCZC W00 10 L04 GitHub Pages: setting, etc.
+ZCZC W00  10 L03 Github related
+ZCZC W00  85 L02 ZOOM related
+ZCZC W00  20 L01 SCELE related
+ZCZC W00  10 L04 GitHub Pages: setting, etc.
 ZCZC W01 120 L02 ZOOM class Monday
-ZCZC W01 60 L01 Pop Quiz Tuesday via SCELE
-ZCZC W01 45 L23 Pop Quiz Wednesday via Discord
+ZCZC W01  60 L01 Pop Quiz Tuesday via SCELE
+ZCZC W01  45 L23 Pop Quiz Wednesday via Discord
 ZCZC W01 120 L11 Install Debian on VBOX + create virtual guest
-ZCZC W01 45 L12 Reads some of the materials
-ZCZC W01 70 L13 Try some essentials Linux commands
-ZCZC W01 30 L14 create & test .bash_aliases
-ZCZC W01 20 L15 hasn't finished, git not found error (not yet fixed)
-ZCZC W01 25 L16 report all W01 progress
-ZCZC W01 90 L17 Surfing through the internet
-ZCZC W01 20 L18 Only tried some of the commands, still curious
+ZCZC W01  45 L12 Reads some of the materials
+ZCZC W01  70 L13 Try some essentials Linux commands
+ZCZC W01  30 L14 create & test .bash_aliases
+ZCZC W01  20 L15 hasn't finished, git not found error (not yet fixed)
+ZCZC W01  25 L16 report all W01 progress
+ZCZC W01  90 L17 Surfing through the internet
+ZCZC W01  20 L18 Only tried some of the commands, still curious
 ZCZC W01 120 L06 Reads OSC10 chapter 1&2
 ZCZC W02 100 L02 ZOOM class Monday
-ZCZC W02 60 L06 Reads OSC10 chapter 16
-ZCZC W02 60 L06 Reads OSC10 chapter 17
-ZCZC W02 70 L05 Fixing W01 Github errors
-ZCZC W02 30 L23 Pop Quiz March 16 via Discord
-ZCZC W02 30 L13 Try Demo W02
-ZCZC W02 90 L10 Doing W02 assignments
+ZCZC W02  60 L06 Reads OSC10 chapter 16
+ZCZC W02  60 L06 Reads OSC10 chapter 17
+ZCZC W02  70 L05 Fixing W01 Github errors
+ZCZC W02  30 L23 Pop Quiz March 16 via Discord
+ZCZC W02  30 L13 Try Demo W02
+ZCZC W02  90 L10 Doing W02 assignments
 ZCZC W02 200 L05 Browsing the internet, looking for W02 top 10
-ZCZC W02 25 L03 Visits 10 next closest neighbours
+ZCZC W02  25 L03 Visits 10 next closest neighbours
 ZCZC W03 100 L02 ZOOM class Wednesday
-ZCZC W03 90 L11 Doing W03 assignment 1
-ZCZC W03 60 L12 Doing W03 assignment 2
-ZCZC W03 10 L13 Doing W03 assignment 3
-ZCZC W03 60 L14 Doing W03 assignment 4
+ZCZC W03  90 L11 Doing W03 assignment 1
+ZCZC W03  60 L12 Doing W03 assignment 2
+ZCZC W03  10 L13 Doing W03 assignment 3
+ZCZC W03  60 L14 Doing W03 assignment 4
 ZCZC W03 120 L15 Doing W03 assignment 5
-ZCZC W03 30 L16 Doing W03 assignment 6
-ZCZC W03 70 L17 Doing W03 assignment 7
-ZCZC W03 10 L18 Doing W03 assignment 8
-ZCZC W03 15 L19 Doing W03 assignment 9
-ZCZC W03 45 L23 Pop Quiz March 23 via Discord
-ZCZC W03 75 L05 Fixing package error, package not found, etc.
+ZCZC W03  30 L16 Doing W03 assignment 6
+ZCZC W03  70 L17 Doing W03 assignment 7
+ZCZC W03  10 L18 Doing W03 assignment 8
+ZCZC W03  15 L19 Doing W03 assignment 9
+ZCZC W03  45 L23 Pop Quiz March 23 via Discord
+ZCZC W03  75 L05 Fixing package error, package not found, etc.
 ZCZC W04 120 L02 ZOOM class Wednesday
-ZCZC W04 40 L06 Read os04.pdf slides
-ZCZC W04 75 L06 Read OSC10 chapter 9
-ZCZC W04 25 L12 Try W04 Demos
-ZCZC W04 30 L13 Visit 10 next closest neighbours
-ZCZC W04 35 L16 Done W04 assignment 6
+ZCZC W04  40 L06 Read os04.pdf slides
+ZCZC W04  75 L06 Read OSC10 chapter 9
+ZCZC W04  25 L12 Try W04 Demos
+ZCZC W04  30 L13 Visit 10 next closest neighbours
+ZCZC W04  35 L16 Done W04 assignment 6
 ZCZC W04 130 L14 GSGS & create my top-10 list of Week04
-ZCZC W05 80 L02 ZOOM class Wednesday
+ZCZC W05  80 L02 ZOOM class Wednesday
+ZCZC W05  60 L01 Pop Quiz W05 Q02 SCEPIAL via SCELE
+ZCZC W05  60 L06 Read OSC10 chapter 10
+ZCZC W05  40 L12 Visit 10 next closest neighbours
+ZCZC W05 100 L13 GSGS & create my top-10 list of Week05
