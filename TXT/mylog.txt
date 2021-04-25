@@ -52,3 +52,7 @@ ZCZC W05  40 L12 Visit 10 next closest neighbours
 ZCZC W05 100 L13 GSGS & create my top-10 list of Week05
 ZCZC W05 120 L10 Done W05 assignments
 ZCZC W06 120 L02 ZOOM class Wednesday
+ZCZC W06  35 L01 Pop Quiz April 21 via SCELE
+ZCZC W06  30 L06 Read OSC10 chapter 3
+ZCZC W06  45 L06 Read OSC10 chapter 4
+ZCZC W05  30 L12 Visit 10 next closest neighbours
