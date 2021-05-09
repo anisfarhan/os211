@@ -64,3 +64,8 @@ ZCZC W07  60 L01 Read OSC10 slides
 ZCZC W07  30 L12 Visit 10 next closest neighbours
 ZCZC W07 120 L13 GSGS & create my top-10 list of Week07
 ZCZC W07  60 L10 Done W07 assignments
+ZCZC W08 105 L02 ZOOM class Monday
+ZCZC W08  60 L01 Read OSC10 slides
+ZCZC W08  30 L12 Visit 10 next closest neighbours
+ZCZC W08  60 L13 GSGS & create my top-10 list of Week08
+ZCZC W08 180 L10 Done W08 assignments
