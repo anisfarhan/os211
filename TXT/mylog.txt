@@ -76,3 +76,11 @@ ZCZC W09  60 L01 Read OSC10 slides
 ZCZC W09  30 L12 Visit 10 next closest neighbours
 ZCZC W09 100 L13 GSGS & create my top-10 list of Week09
 ZCZC W09 180 L10 Done W09 assignments
+ZCZC W10 120 L02 ZOOM class Monday
+ZCZC W10  30 L01 Pop Quiz (Lecturer) via SCELE
+ZCZC W10  45 L01 Pop Quiz (Teaching Assitant) via SCELE
+ZCZC W10  60 L01 Read OSC10 slides
+ZCZC W10  30 L12 Visit 10 next closest neighbours
+ZCZC W10  45 L13 Create my top-10 list of Week10
+ZCZC W10 240 L10 Redo W08 & W09 LFS
+ZCZC W10 300 L10 Done W10 assignments

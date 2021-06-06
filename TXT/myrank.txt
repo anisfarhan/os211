@@ -33,3 +33,7 @@ ZCZC W07 arroganthooman
 ZCZC W08 antoniusanggito
 ZCZC W08 arsyandatj
 ZCZC W08 aryaputr213
+# Week 09
+ZCZC W09 arsyandatj
+ZCZC W09 aryaputr213
+ZCZC W09 arroganthooman
